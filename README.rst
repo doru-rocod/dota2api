@@ -7,8 +7,8 @@ dota2api: wrapper and parser
 
 .. image:: https://travis-ci.org/joshuaduffy/dota2api.svg
     :target: https://travis-ci.org/joshuaduffy/dota2api
-.. image:: https://readthedocs.org/projects/dota2api/badge/?version=latest
-    :target: https://readthedocs.org/projects/dota2api/?badge=latest
+.. image:: https://readthedocs.org/projects/demodota2api/badge/?version=latest
+    :target: https://readthedocs.org/projects/demodota2api/?badge=latest
 
 Wrapper and parser in Python created for interacting and getting data easily from Valve's Dota 2 API. It supports Python versions ``2.6 to 2.7+``, ``3.2 to 3.5+`` along with ``PyPy/PyPy3``
 
