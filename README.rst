@@ -55,7 +55,7 @@ Or the old fashioned way...
 
 Documentation
 -------------
-Documentation is available at http://dota2api.readthedocs.org/
+Documentation is available at http://demodota2api.readthedocs.org/
 
 
 Supported API calls
